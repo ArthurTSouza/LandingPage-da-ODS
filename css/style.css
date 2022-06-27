@@ -114,7 +114,7 @@
 #title-objetives{
     font-size: 3em;
     left: 500px;
-    top: 430px;
+    top: 75vh;
     display: flex;
     position: absolute;
     font-family: 'Inter';
@@ -141,7 +141,7 @@
     width: 90vw;
     height: 100vh;
     left: 10vh;
-    top: 118vh;
+    top: 130vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
